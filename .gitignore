@@ -1,0 +1,22 @@
+# Secrets & Environment
+.env
+.env.local
+.env.*.local
+
+# Generated Media / Outputs
+outputs/
+
+# Python Cache & Virtualenv
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+env/
+
+# Vercel
+.vercel/
+
+# OS specific
+.DS_Store
+Thumbs.db
